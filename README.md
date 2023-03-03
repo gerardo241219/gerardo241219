@@ -1,16 +1,21 @@
-### Hi there 👋
+# El Bootcamp que estoy liderango
+## Semana 1
+**Configuracion del ambiente de desarrollo (Prework)**
+1. Instalando Ubuntu en Windows 10/11
+1. Instalacion de Git
+1. Configuracion de las llaves SSH
+1. Creando una cuenta de GitHub
+1. Instalacion de Node.js y Yarn
+1. Primeros pasos con VS Code
 
-<!--
-**gerardo241219/gerardo241219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Estos son los 5 comandos
+| Comando |               Descripcion |
+| ------- | ------------------------- |
+| ls      | Lista el contenido |
+| cd      | Cambiar entre directorios |
+| yarn    | Instalar dependencias |
+| gst     | Alias de git status |
+| clear   | Limpiar la terminal |
+| alias   | Listar los alias |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Estos son los alias mas utilizados
